@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    border-radius: 40px;
+    background: rgb(52, 60, 86);
+}
+.header{
+padding-top: 45px;
+    
+
+}
+.list{
+display: flex;
+justify-content: space-around;
+list-style: none;
+
+}
+.item{
+    width: 200px;
+    border-radius: 30px;
+    background-color: rgb(255, 1, 1);  
+    text-align: center; 
+    padding: 14px 0;
+}
+.link{
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-decoration: none;
+}
+.hero{
+    padding-top: 68px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.div{
+   display: flex;
+    width: 264px;
+    height: 118px;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 85px;
+    margin-left: 650px;
+    
+}
+.p{
+    
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+align-items: center;
+padding-top: 40px;
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    height:200px ;
+    width: 400px ;
+    border-radius: 50px;
+    background-color: #eb1616;
+}
+.box2{
+    height:200px ;
+    width: 400px ;
+    border-radius: 50px;
+    background-color: #eb1616;
+
+}
+.green{
+    
+    width: 300px;
+    height: 109px;
+    background-color: rgb(97, 255, 0);
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.green2{
+    width: 300px;
+    height: 109px;
+    background-color: rgb(97, 255, 0);
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+.text{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+}
+.text2{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 20px;
+}
